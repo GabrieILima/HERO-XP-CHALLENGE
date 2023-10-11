@@ -22,5 +22,4 @@ for (let faixa in faixasDeExperiencia) {
 if (!nivel) {
   nivel = "Radiante";
 }
-
 console.log(heroi + " adquiriu um total de " + quantidadeExperiencia + " pontos de xp e atingiu o nível " + nivel);
